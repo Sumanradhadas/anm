@@ -68,9 +68,10 @@ export default function Header() {
       <div className="bg-gray-800 text-white py-3 overflow-hidden">
         <div className="whitespace-nowrap animate-scroll">
           <span className="text-sm font-medium">
-            Recognized by Bihar Nursing Council | Admissions Through DCECE | 
-            Quality Nursing Education in Lakhisarai | 
-            Recognized by Bihar Nursing Council | Admissions Through DCECE
+            Recognized by Bihar Nursing Council 
+            | Admissions Through DCECE 
+            | Quality Nursing Education in Lakhisarai | 
+         
           </span>
         </div>
       </div>
