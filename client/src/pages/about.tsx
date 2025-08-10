@@ -104,7 +104,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIo41nqG9hJBlp5kaadQUwP33KqAa8JezfHA&s" 
+                src="https://deshbhagatuniversity.in/wp-content/uploads/2024/08/3027.jpg" 
                 alt="Educational institution building" 
                 className="rounded-xl shadow-lg w-full"
               />
