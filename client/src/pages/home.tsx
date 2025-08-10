@@ -137,7 +137,7 @@ export default function Home() {
             <div className="relative">
               <div className="bg-yellow-100 p-8 rounded-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1666214280557-f1b5022eb634?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://t4.ftcdn.net/jpg/03/36/47/49/240_F_336474902_EjkCAxe5dFUoFsCSaFtqKXLDI8JuhgVl.jpg" 
                   alt="Institute facilities collage" 
                   className="rounded-xl shadow-lg w-full"
                 />
