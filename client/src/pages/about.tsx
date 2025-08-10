@@ -60,7 +60,7 @@ export default function About() {
     {
       title: "Learning Classrooms",
       description: "Well-lit classrooms with essential teaching tools for effective nursing education and theory sessions.",
-      image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250",
+      image: "https://t4.ftcdn.net/jpg/04/31/47/35/360_F_431473578_sfwRzAfW9CBQ6R2Ak1QZZVT5eKkIiJbR.jpg",
     },
     {
       title: "Practice Laboratory",
@@ -104,7 +104,7 @@ export default function About() {
             </div>
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIo41nqG9hJBlp5kaadQUwP33KqAa8JezfHA&s" 
                 alt="Educational institution building" 
                 className="rounded-xl shadow-lg w-full"
               />
