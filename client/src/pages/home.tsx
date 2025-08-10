@@ -106,7 +106,7 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
+                src="https://media.istockphoto.com/id/1419093004/photo/young-nurse-consoling-little-girl-patient-lying-on-bed-in-hospital-ward.jpg?s=2048x2048&w=is&k=20&c=Lz8RO2h2CYbFdadXGdmunuFt9QZ9VEbGBT8GCL6Tso8=" 
                 alt="Nursing classroom with students" 
                 className="rounded-lg shadow-lg"
               />
